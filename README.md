@@ -1,14 +1,14 @@
-## Recommendation Movielens-dataset
+# Recommendation Movielens-dataset
 
-# Project Title
+### Project Title
 
 Movie Recommendation System with Content-Based, Collaborative Filtering, and Popularity-Based Approaches
 
-# Description
+### Description
 
 This project implements a movie recommendation system using a combination of content-based filtering, collaborative filtering, and popularity-based techniques. It leverages the MovieLens dataset, a widely used benchmark for recommender system evaluation.
 
-# Key Features:
+### Key Features:
 
 Content-Based Filtering: Recommends movies similar to those a user has rated highly, based on movie features (e.g., genre, director, actors).
 Collaborative Filtering: Recommends movies that users with similar tastes have rated highly.
